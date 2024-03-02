@@ -1,6 +1,6 @@
 ## Preleukemic clonal evolution revealed using single-cell DNA sequencing and computational modeling
 
-(https://doi.org/10.1101/2023.12.15.571872)[https://www.biorxiv.org/content/10.1101/2023.12.15.571872v1]
+[https://doi.org/10.1101/2023.12.15.571872](https://www.biorxiv.org/content/10.1101/2023.12.15.571872v1)
 
 ### Abstract
 
