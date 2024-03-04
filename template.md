@@ -1,18 +1,26 @@
-## Title_goes_here
+# Title goes here
+
 []()
 
-### Abstract
+## Abstract
 
-**Biological setup:** 
+### **Biological setup:** 
+
+* 
+
+ 
+
+### **Computational setup:** 
 
 
 
-**Computational setup:** 
+### **Results:** 
 
 
-
-**Results:** 
-
-### Most relevant parts for me
+### **Most relevant parts for me**
 
 1. 
+
+### **Figure comments**
+
+&rarr; **Figure 1**
